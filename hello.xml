@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <greeting>Hello from main branch</greeting>
 =======
 <greeting>Hello from GitWork branch</greeting>
 >>>>>>> GitWork
+=======
+<greeting>Hello from both branches</greeting>
+>>>>>>> 8ff6a93d65832034b7f1d89ea286e93740f4808d
