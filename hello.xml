@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <greeting>Hello from main branch</greeting>
+=======
+<greeting>Hello from GitWork branch</greeting>
+>>>>>>> GitWork
